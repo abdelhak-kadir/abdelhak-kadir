@@ -1,10 +1,16 @@
-<!-- 🚀 Modern GitHub Profile README for Abdelhak Kadir -->
+<!-- 🔥 Abdelhak Kadir - Modern GitHub Profile README -->
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/Abdelhak-kadir">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0EF7F7&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Abdelhak+Ait Kadir;🚀+Cybersecurity+%26+DevSecOps+Enthusiast;💻+Full-Stack+Developer;🔐+Passionate+About+Cloud+%26+Security" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Abdelhak+Kadir;🚀+Cybersecurity+%26+DevSecOps+Enthusiast;💻+Full-Stack+Developer;🔐+Cloud+%7C+Security+%7C+Automation" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdelhak-kadir&style=flat-square&color=00F7FF" alt="Profile views"/>
 </p>
 
 ---
@@ -12,10 +18,10 @@
 ## 🌟 About Me  
 
 - 🎓 Engineering Student in **IT Security & Digital Trust** @ ENSA Agadir  
-- 🔐 Focused on **Cybersecurity, Cloud-Native Architectures, and DevSecOps**  
-- 💻 Experience in **Django, Laravel, React, PostgreSQL, Docker**  
-- ⚙️ Love building **CI/CD pipelines, secure infrastructures, and scalable apps**  
-- 🌱 Currently exploring **Penetration Testing & Advanced Cloud Security**  
+- 🔐 Passionate about **Cybersecurity, DevSecOps, and Cloud Architectures**  
+- 💻 Skilled in **Django, Laravel, React, PostgreSQL, Docker**  
+- ⚙️ Building **CI/CD pipelines, secure infra, and automation workflows**  
+- 🌱 Exploring **Penetration Testing & Cloud Security**  
 
 ---
 
@@ -37,19 +43,27 @@
 ## 📌 Featured Projects  
 
 🔹 **Financial Management Web App** → Django + Odoo + Bootstrap  
-🔹 **Laravel + React + PostgreSQL Stack** → Deployed with Docker & Nginx  
-🔹 **Infrastructure Security Setup** → Secure VPC with Bastion & Firewalls  
+🔹 **Laravel + React + PostgreSQL Stack** → Containerized with Docker & Nginx  
+🔹 **Cloud Infrastructure Security** → Secure VPC with Bastion Hosts & Firewalls  
 
 ---
 
-## 📊 GitHub Insights  
+## 📊 GitHub Stats  
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdelhak-kadir&theme=radical&hide_border=true)  
-![Abdelhak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelhak-kadir&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelhak-kadir&layout=compact&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Abdelhak-kadir&theme=neon-palenight&hide_border=true)  
+![Abdelhak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelhak-kadir&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelhak-kadir&layout=compact&theme=tokyonight&hide_border=true)  
 
+</div>
+
+---
+
+## 🐍 Contribution Snake  
+
+<div align="center">
+  <img src="https://github.com/Abdelhak-kadir/Abdelhak-kadir/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </div>
 
 ---
@@ -66,4 +80,3 @@
 ---
 
 <p align="center">⚡ "Cybersecurity begins where distraction ends" ⚡</p>
-
