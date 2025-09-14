@@ -3,7 +3,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/Abdelhak-kadir">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0EF7F7&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Abdelhak+Ait\Kadir;🚀+Cybersecurity+%26+DevSecOps+Enthusiast;💻+Full-Stack+Developer;🔐+Passionate+About+Cloud+%26+Security" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0EF7F7&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Abdelhak+Ait+Kadir;🚀+Cybersecurity+%26+DevSecOps+Enthusiast;💻+Full-Stack+Developer;🔐+Passionate+About+Cloud+%26+Security" />
   </a>
 </p>
 
